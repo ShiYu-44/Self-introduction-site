@@ -15,7 +15,8 @@
     "vuex": "^3.4.0",
     "highlight.js": ">=10.4.1",
     "is-svg": ">=4.2.2",
-    "node-forge": ">=0.10.0"
+    "node-forge": ">=0.10.0",
+    "ssri": ">=6.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
